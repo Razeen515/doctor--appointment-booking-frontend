@@ -4,27 +4,27 @@ import { Container, Card, Row, Col, Button, Modal, Form } from "react-bootstrap"
 const doctors = [
   {
     id: 1,
-    name: "Dr. Sarah Johnson",
+    name: "Dr. John Doe	",
     specialty: "Cardiologist",
-    photo: "https://randomuser.me/api/portraits/women/65.jpg",
+    photo: "https://www.shutterstock.com/shutterstock/videos/1106887777/thumb/6.jpg?ip=x480",
   },
   {
     id: 2,
-    name: "Dr. James Wilson",
+    name: "Dr. John Doe	",
     specialty: "Dermatologist",
-    photo: "https://randomuser.me/api/portraits/men/50.jpg",
+    photo: "https://www.shutterstock.com/shutterstock/videos/1106887777/thumb/6.jpg?ip=x480",
   },
   {
     id: 3,
-    name: "Dr. Emily Davis",
+    name: "Dr. John Doe	",
     specialty: "Pediatrician",
-    photo: "https://randomuser.me/api/portraits/women/45.jpg",
+    photo: "https://www.shutterstock.com/shutterstock/videos/1106887777/thumb/6.jpg?ip=x480",
   },
   {
     id: 4,
-    name: "Dr. Robert Brown",
+    name: "Dr. John Doe	",
     specialty: "Orthopedic Surgeon",
-    photo: "https://randomuser.me/api/portraits/men/40.jpg",
+    photo: "https://www.shutterstock.com/shutterstock/videos/1106887777/thumb/6.jpg?ip=x480",
   },
 ];
 
