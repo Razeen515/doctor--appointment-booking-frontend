@@ -21,10 +21,10 @@ const Home = () => {
 
   return (
     <div style={styles.homeContainer}>
-      {/* Website Title */}
+      
       <h1 style={styles.siteTitle}>DocSlot</h1>
 
-      {/* Header Section */}
+      
       <header style={styles.header}>
         <img
           src="https://images-platform.99static.com/eL72RY0hvt8-ZURXy0xAzDYsrkA=/500x500/top/smart/99designs-contests-attachments/59/59815/attachment_59815896"
@@ -90,7 +90,7 @@ const styles = {
     left: "20px",
   },
   logo: {
-    width: "70px", // Smaller logo size
+    width: "70px", 
   },
   content: {
     background: "rgba(0, 0, 0, 0.6)",
